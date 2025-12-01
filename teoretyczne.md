@@ -1,8 +1,9 @@
 # Karta pracy – Stałe, zmienne i operatory w JavaScript 
 Imię i nazwisko: Wojciech Bełkot
 Klasa: 1 Technik Programista
-Data: 01/12/2025 
-Część 1: Pytania teoretyczne 
+Data: 01/12/2025
+
+# Część 1: Pytania teoretyczne 
 
 ## Zadanie 1 (2 pkt)
 Wyjaśnij własnymi słowami różnicę między let a const. Kiedy używasz każdego z nich? 
@@ -26,7 +27,7 @@ Co to jest konkatenacja? Jak łączysz teksty w JavaScript? Podaj dwa sposoby.
 Wyjaśnij różnicę między operatorami ++x a x++. Który zwiększa wartość przed użyciem, a który po? 
 - Operator ++x inkrementuję zmienną x przed użyciem a operator x++ inkrementuję zmienną x po użyciu.
 
-Część 2: Analiza kodu 
+# Część 2: Analiza kodu 
 
 ## Zadanie 5 (3 pkt)
 Przeanalizuj poniższy kod i odpowiedz na pytania: 
