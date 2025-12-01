@@ -26,7 +26,7 @@ Sposób 2: Używając ` i $ przed zmienną
 Wyjaśnij różnicę między operatorami ++x a x++. Który zwiększa wartość przed użyciem, a który po? 
 - Operator ++x inkrementuję zmienną x przed użyciem a operator x++ inkrementuję zmienną x po użyciu.
 
-# Część 2: Analiza kodu 
+Część 2: Analiza kodu 
 
 ## Zadanie 5 (3 pkt)
 Przeanalizuj poniższy kod i odpowiedz na pytania: 
