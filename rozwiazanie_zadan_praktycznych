@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - zadania</title>
+</head>
+<body>
+    <script>
+        // Zadanie - 7
+        let cena = 100;
+        const RABAT = 0.15;
+        let cenaKoncowa = null;
+        cenaKoncowa = cena - cena*RABAT;
+        console.log(`Cena produktu to ${cena}, cena po rabacie to ${cenaKoncowa}`);
+
+        // Zadanie - 8
+        let liczba = 17;
+
+        if (liczba%2==0){
+            console.log("Liczba jest parzysta")
+        } else {
+            console.log("Liczba jest nieparzysta")
+        }
+
+        // Zadanie 9
+        const dlugosc = 10;
+        const szerokosc = 5;
+        let pole;
+
+        pole = dlugosc*szerokosc;
+        console.log(pole);
+
+        // Zadanie 10
+        let licznik = 5;
+        licznik++;
+        console.log(licznik);
+        licznik++;
+        console.log(licznik);
+        licznik--;
+        console.log(licznik);
+
+        // Zadanie 11
+        let sekundy = 135;
+        let minuty = null;
+        let reszta = null;
+        minuty = sekundy/60;
+        console.log(minuty);
+        reszta = minuty % 1;
+        reszta *= 60;
+        console.log(`Reszta to ${reszta} sekund`);
+
+    </script>
+</body>
+</html>
